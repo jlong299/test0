@@ -1,3 +1,6 @@
+// Author
+// Date
+// description : 4 bit counter
 module test
 	(
 		input 		clk,
